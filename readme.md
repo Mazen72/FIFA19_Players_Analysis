@@ -4,6 +4,14 @@
 
 The data consists of information regarding fifa19 18207 players attributes , skills , clubs , overall , nationality , wages , i used the data from this source https://www.kaggle.com/karangadiya/fifa19
 
+![alt text](https://github.com/Mazen72/FIFA19_Players_Analysis/blob/main/images/foo8.png)
+
+![alt text](https://github.com/Mazen72/FIFA19_Players_Analysis/blob/main/images/foo1.png)
+
+![alt text](https://github.com/Mazen72/FIFA19_Players_Analysis/blob/main/images/foo2.png)
+
+![alt text](https://github.com/Mazen72/FIFA19_Players_Analysis/blob/main/images/foo4.png)
+
 ## Summary of Findings
 
 players with the same overall rating but higher age generally has lower value and wage than the younger ones   
